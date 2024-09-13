@@ -5,6 +5,13 @@
 
 ##
 🤝 I’m looking forward to collaborating with other developers, or teams
+💻 Программирую на JS, участвую в разработке проектов, верстаю на HTML5/CSS3 и больше
+
+2022-2023 прошла курсы по Веб-вёрстке на сайте Skillbox,
+2022-2024 курсы Frond-End разработчика на сайте Нетологии
+
+Нужно больше подробностей? Посети мой сайт:
+[https://example.ru](https://example.ru)
 
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasyabunina&layout=compact)
