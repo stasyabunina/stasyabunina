@@ -10,8 +10,8 @@
 2022-2023 прошла курсы по Веб-вёрстке на сайте Skillbox,<br/>
 2022-2024 курсы Frond-End разработчика на сайте Нетологии
 
-Нужно больше подробностей? Посети мой сайт:
-[https://example.ru](https://example.ru)
+Нужно больше подробностей? Посети мой сайт:<br/>
+![https://example.ru](sitdownpls.gif)
 
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasyabunina&layout=compact)
