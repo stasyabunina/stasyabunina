@@ -13,7 +13,7 @@
 
 Хочется узнать больше? Посети мой сайт:
 
-<a href="https://example.ru"><img width="330px" src="resume.gif"></a>
+<a href="https://astassssia.ucoz.org/"><img width="330px" src="resume.gif"></a>
 
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasyabunina&layout=compact)
